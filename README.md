@@ -4,4 +4,8 @@
 
 Представям ви екрана снимка на тази разработка:
 
+![src1](https://user-images.githubusercontent.com/96689375/187732718-6c512c37-1853-4421-a60c-0a49ba81322e.png)
+
 Преставям ви и видео демонстрация на същата:
+
+https://user-images.githubusercontent.com/96689375/187732746-597db61b-69fc-48ee-b07f-4acb7fcb56be.mp4
